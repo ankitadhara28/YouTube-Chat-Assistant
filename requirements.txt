@@ -1,0 +1,17 @@
+# langchain Core
+langchain # main lib
+langchain-core # core interfaces
+langchain-community # community integrations
+#Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
+#Environment Variable Management
+python-dotenv
+fastapi
+uvicorn
+pydantic
+
